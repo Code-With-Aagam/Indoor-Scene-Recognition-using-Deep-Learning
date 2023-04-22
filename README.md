@@ -1,1 +1,1 @@
-# Indoor-Scene-Recognition-using-Deep-Learning
+# Indoor Scene Recognition using Deep Learning
